@@ -1,6 +1,7 @@
 ## Login and registration screens
 ![Ekran görüntüsü 2023-06-18 003019](https://github.com/mustafanarin/Moongram-InstagramCloneApp/assets/124889809/f3fc1356-e1c0-47f5-a6a0-8520cf2cedf2)
-![Ekran görüntüsü 2023-06-18 003045](https://github.com/mustafanarin/Moongram-InstagramCloneApp/assets/124889809/5fbe5aa3-f529-46c2-926e-d6856d9bdb7f)
+![Ekran görüntüsü 2023-06-20 012438](https://github.com/mustafanarin/Moongram-InstagramCloneApp/assets/124889809/9545e4ea-53de-4384-9b29-b955fbe54cd3)
+
 
 ## Explore and photo upload screens 
 ![Ekran görüntüsü 2023-06-20 010350](https://github.com/mustafanarin/Moongram-InstagramCloneApp/assets/124889809/75f0d0d4-3143-429c-8a63-2c4a6d928b53)
